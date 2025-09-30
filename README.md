@@ -83,7 +83,7 @@ ERC-6909 specifies a multi-token contract as a simplified alternative to the ERC
 
 ### 🏦 Real World Assets (RWA)
 
-**[Centrifuge V3 BalanceSheet](https://github.com/centrifuge/protocol-v3/blob/main/src/vaults/BalanceSheet.sol)**  
+**[Centrifuge BalanceSheet]([https://github.com/centrifuge/protocol-v3/blob/main/src/vaults/BalanceSheet.sol](https://github.com/centrifuge/protocol/blob/main/src/spoke/BalanceSheet.sol))**  
 > ERC-6909 share management for real-world asset tokenization and pool accounting
 
 ### 🎮 Social & Gaming
